@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import React from "react";
+// import React from "react";
 import { useSearchParams } from "next/navigation";
 
 export default function NavbarItems({ title, param }) {
